@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="ChatGPT%20Image%205%20juin%202026%2C%2001_45_27.png" width="300">
+</p>
+
+# Müsslin Ableton Extensions Lab
 # musslin-ableton-extensions-lab
 Experimental Ableton Live 12 Extensions SDK tools by Müsslin.
 # Müsslin Ableton Extensions Lab
