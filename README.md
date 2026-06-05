@@ -8,8 +8,6 @@
 Experimental Ableton Live 12 Extensions SDK tools by Müsslin.
 
 
-Experimental Ableton Live 12 Extensions SDK tools by **Müsslin**.
-
 This repository is a personal music-tech laboratory focused on creative MIDI tools, bassline generation, groove mutation and futuristic electronic workflows inside Ableton Live.
 
 ## About
