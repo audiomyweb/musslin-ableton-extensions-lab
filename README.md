@@ -33,11 +33,15 @@ A MIDI bassline generator and mutation tool focused on:
 
 The goal is not to generate random notes, but to create basslines that feel musical, physical and alive.
 
-### BassAdvantis v.1 by Müsslin
+### CORVEN by MÜSSLIN
 
-An advanced MIDI bassline concept built around fewer visible controls and a deeper internal generation engine.
+An experimental MIDI arpeggio engine for Ableton Live 12 Extensions SDK.
 
-BassAdvantis is designed to create evolving bass phrases with groove logic, related variations, musical memory and a simple creative workflow.
+CORVEN generates automatic MIDI arpeggios, proposes 4 musical variations, inserts the selected result directly into the active MIDI clip and provides a visual preview faithful to the real notes.
+
+The tool is built around simple controls — Root, Style, Emotion and Length — while the internal engine manages silences, accents, octaves, velocity, note length and subtle micro-variations.
+
+It also includes session memory, Randomize and Make Similar functions for fast creative exploration.
 
 ## Musical Identity
 
@@ -58,3 +62,12 @@ Music producer, sound designer and creative developer.
 
 Artist projects: Djeemax, Y4NN BERN, MÜSSLIN  
 Label: RubiKod Records
+### CORVEN by MÜSSLIN
+
+An experimental MIDI arpeggio engine for Ableton Live 12 Extensions SDK.
+
+CORVEN generates automatic MIDI arpeggios, proposes 4 musical variations, inserts the selected result directly into the active MIDI clip and provides a visual preview faithful to the real notes.
+
+The tool is built around simple controls — Root, Style, Emotion and Length — while the internal engine manages silences, accents, octaves, velocity, note length and subtle micro-variations.
+
+It also includes session memory, Randomize and Make Similar functions for fast creative exploration.
