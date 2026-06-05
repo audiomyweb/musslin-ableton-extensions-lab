@@ -1,4 +1,9 @@
 # Bass Mutator by Müsslin V6
+## Screenshot
+
+<p align="center">
+  <img src="https://github.com/audiomyweb/musslin-ableton-extensions-lab/blob/main/screenshots/BASS%20MUTATOR.png?raw=true" width="700">
+</p>
 
 Extension Ableton Live SDK orientée basslines modulaires, slice, modulation et pumpage.
 
