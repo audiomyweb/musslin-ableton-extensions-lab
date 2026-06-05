@@ -20,7 +20,7 @@ The project is built around experimental tools made with the Ableton Live 12 Ext
 ## Screenshot
 
 <p align="center">
-  <img src="../screenshots/bass-mutator.png" width="700">
+  <img src="https://github.com/audiomyweb/musslin-ableton-extensions-lab/blob/main/screenshots/BASS%20MUTATOR.png?raw=true" width="700">
 </p>
 
 A MIDI bassline generator and mutation tool focused on:
