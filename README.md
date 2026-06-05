@@ -17,6 +17,11 @@ The project is built around experimental tools made with the Ableton Live 12 Ext
 ## Extensions
 
 ### Bass Mutator by Müsslin V6
+## Screenshot
+
+<p align="center">
+  <img src="../screenshots/bass-mutator.png" width="700">
+</p>
 
 A MIDI bassline generator and mutation tool focused on:
 
