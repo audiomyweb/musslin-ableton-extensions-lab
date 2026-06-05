@@ -1,24 +1,44 @@
 # Bass Mutator by Müsslin V6
 
-Experimental Ableton Live 12 Extension focused on MIDI bassline generation, groove mutation and visual creative feedback.
+Extension Ableton Live SDK orientée basslines modulaires, slice, modulation et pumpage.
 
-## Concept
+## Ce que ça crée
 
-Bass Mutator by Müsslin V6 is designed as a creative MIDI bassline engine for electronic music production.
+Cette version génère une ligne de basse complète dans le clip MIDI sélectionné.
 
-It explores rhythmic movement, bass pressure, slices, ghost hits, octave jumps, pump behavior and musical variation inside Ableton Live.
+Elle est pensée pour :
+- basslines modulaires
+- slices rythmiques
+- sensation de sidechain / pumpage
+- stutters
+- ghost hits
+- sub holds
+- octave jumps
+- variations high-tech / neuro / acid
 
-## Main Features
+## Installation
 
-- MIDI bassline generation
-- Groove mutation
-- Slice-based rhythm
-- Ghost hits
-- Octave jumps
-- Sub-hold behavior
-- Visual MIDI feedback
-- Clip-based workflow
+```bash
+cd ~/Desktop/bass-mutator-by-musslin-v6
+npm install
+npm run start -- --live "/Applications/Ableton Live 12 Beta.app/Contents/Helpers/ExtensionHost/ExtensionHostNodeModule.node"
+```
 
-## Status
+Dans Live :
+- crée un clip MIDI vide ou existant
+- clic droit sur le clip
+- `Bass Mutator by Müsslin…`
+- clique `CREATE MODULAR BASSLINE`
 
-Work in progress.
+## Créer le .ablx
+
+```bash
+cd ~/Desktop/bass-mutator-by-musslin-v6
+npm run package
+```
+
+Fichier généré sur le Bureau :
+
+```text
+bass-mutator-by-musslin-v6.ablx
+```

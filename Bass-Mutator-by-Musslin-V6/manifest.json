@@ -1,0 +1,7 @@
+{
+  "name": "Bass Mutator by M\u00fcsslin",
+  "author": "Yannick Muslin / M\u00dcSSLIN",
+  "entry": "dist/extension.js",
+  "version": "0.6.0",
+  "minimumApiVersion": "1.0.0"
+}
