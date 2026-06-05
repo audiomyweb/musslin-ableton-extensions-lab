@@ -37,6 +37,11 @@ A MIDI bassline generator and mutation tool focused on:
 The goal is not to generate random notes, but to create basslines that feel musical, physical and alive.
 
 ### CORVEN by MÜSSLIN
+## Screenshot
+
+<p align="center">
+  <img src="https://github.com/audiomyweb/musslin-ableton-extensions-lab/blob/main/screenshots/CORVEN.png?raw=true" width="700">
+</p>
 
 An experimental MIDI arpeggio engine for Ableton Live 12 Extensions SDK.
 
