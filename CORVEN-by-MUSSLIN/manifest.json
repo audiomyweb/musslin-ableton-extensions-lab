@@ -1,0 +1,7 @@
+{
+  "name": "CORVEN By Müsslin",
+  "author": "Yannick Muslin / MÜSSLIN",
+  "entry": "dist/extension.js",
+  "version": "0.5.4",
+  "minimumApiVersion": "1.0.0"
+}
