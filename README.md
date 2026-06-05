@@ -48,7 +48,12 @@ It also includes session memory, Randomize and Make Similar functions for fast c
 This project is inspired by **Gravtech**, a futuristic electronic sound universe created by Müsslin.
 
 Gravtech is physical, groovy and emotional — built around bass pressure, rhythmic movement, clean digital design and precise musical energy.
+## Installation / Development
 
+Clone the repository:
+
+```bash
+git clone https://github.com/audiomyweb/musslin-ableton-extensions-lab.git
 ## Status
 
 Work in progress.
