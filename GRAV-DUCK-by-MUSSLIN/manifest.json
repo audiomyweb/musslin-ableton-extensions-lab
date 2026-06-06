@@ -1,0 +1,7 @@
+{
+  "name": "Grav Duck by Müsslin",
+  "author": "Yannick Muslin / MÜSSLIN",
+  "entry": "dist/extension.js",
+  "version": "0.3.0",
+  "minimumApiVersion": "1.0.0"
+}
