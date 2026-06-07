@@ -144,3 +144,19 @@ Music producer, sound designer and creative developer.
 
 Artist projects: Djeemax, Y4NN BERN, MÜSSLIN  
 Label: RubiKod Records
+## Security Note
+
+These Ableton Live Extensions are experimental creative tools built for MIDI generation, groove design and workflow experimentation only.
+
+They do not intentionally access browser data, passwords, personal files, SSH keys, API keys or external credentials.
+
+They are designed to interact only with Ableton Live musical data such as clips, MIDI notes, tracks and creative parameters.
+
+No telemetry.  
+No password access.  
+No browser data access.  
+No external credential collection.  
+No hidden background process.
+
+As the Ableton Extensions SDK is still in public beta, users are encouraged to scan any downloaded `.ablx` file before installing it.
+
