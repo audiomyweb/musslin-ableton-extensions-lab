@@ -3,6 +3,8 @@
 </p>
 
 # Müsslin Ableton Extensions Lab
+Experimental Ableton Live 12 SDK tools for creative MIDI, groove and workflow design.  
+Built for music creation only — no telemetry, no browser data access, no credential collection.
 
 Experimental Ableton Live 12 Extensions SDK tools by **Müsslin**.
 
